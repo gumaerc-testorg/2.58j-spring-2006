@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains 2 problems on optical properties of gold and nanoparticles.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-58j-radiative-transfer-spring-2006/c8604742cf865f78dc5c15d4ae2d0de2_ps4.pdf
+file: /media/courses/2-58j-radiative-transfer-spring-2006/c8604742cf865f78dc5c15d4ae2d0de2_ps4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps4.pdf
 uid: c8604742-cf86-5f78-dc5c-15d4ae2d0de2

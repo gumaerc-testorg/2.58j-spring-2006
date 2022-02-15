@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the presentation and discussion on global warming.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-58j-radiative-transfer-spring-2006/02f1131c1505bddd87a14fa9e7532d77_lecture21.pdf
+file: /media/courses/2-58j-radiative-transfer-spring-2006/02f1131c1505bddd87a14fa9e7532d77_lecture21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture21.pdf
 uid: 02f1131c-1505-bddd-87a1-4fa9e7532d77
