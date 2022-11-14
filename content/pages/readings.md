@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section gives information about the chapters to be studied for various
+  topics covered in the course textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -189,7 +191,7 @@ Dielectric Properties of Solid, Drude Model
 Lorentz Model
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Properties of Solids (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chap6_solid_prop))
+Optical Properties of Solids ({{% resource_link be80471d-162a-ada0-2037-6bee27e33870 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

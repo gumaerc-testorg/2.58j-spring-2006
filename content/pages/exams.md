@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the exam files along with their solution files.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ Solutions
 First Mid-term (In-class, Open Book)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exam1_solutions))
+({{% resource_link c21605f2-7140-e686-465e-58633828308a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ First Mid-term (In-class, Open Book)
 Second Mid-term (Take-home)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exam2))
+({{% resource_link b9ec9573-2c74-1019-2b00-fa88dd478bac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
