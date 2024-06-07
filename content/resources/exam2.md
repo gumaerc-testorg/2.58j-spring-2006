@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 4 questions on radiative heat transfer to test
   the student's understanding of the course materials.
 file: /courses/2-58j-radiative-transfer-spring-2006/b9ec95732c7410192b00fa88dd478bac_exam2.pdf
+file_size: 39038
 file_type: application/pdf
 learning_resource_types:
 - Exams
