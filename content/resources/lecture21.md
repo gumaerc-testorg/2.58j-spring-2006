@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the presentation and discussion on global warming.
 file: /courses/2-58j-radiative-transfer-spring-2006/02f1131c1505bddd87a14fa9e7532d77_lecture21.pdf
+file_size: 451171
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

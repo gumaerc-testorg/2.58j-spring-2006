@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic discrete ordinate method.
 file: /courses/2-58j-radiative-transfer-spring-2006/e4fce5a6c4c89295b83d2ee727458e34_student_lect17.pdf
+file_size: 95823
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

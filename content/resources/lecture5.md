@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic EM waves.
 file: /courses/2-58j-radiative-transfer-spring-2006/ac098bf0b947d5f640cb3a153bafeebd_lecture5.pdf
+file_size: 519265
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

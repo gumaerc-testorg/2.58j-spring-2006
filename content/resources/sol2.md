@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to 5 problems from the course text book.
 file: /courses/2-58j-radiative-transfer-spring-2006/94f22376418ac00d6413f7a230d2dd57_sol2.pdf
+file_size: 120814
 file_type: application/pdf
 learning_resource_types:
 - Assignments

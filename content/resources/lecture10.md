@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the topics dielectric properties of solid, Drude
   model.
 file: /courses/2-58j-radiative-transfer-spring-2006/043167e28514b91d25ac7e476cca3d80_lecture10.pdf
+file_size: 114453
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

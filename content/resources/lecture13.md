@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic radiative properties of gases.
 file: /courses/2-58j-radiative-transfer-spring-2006/3294729628567acd712ef18f4ce9d350_lecture13.pdf
+file_size: 259380
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
