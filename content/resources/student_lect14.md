@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource reviews the last two lectures.
 file: /courses/2-58j-radiative-transfer-spring-2006/f588281d63a6bfa732d5852a8d06d6ff_student_lect14.pdf
+file_size: 361923
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

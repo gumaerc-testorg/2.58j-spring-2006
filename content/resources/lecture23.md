@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic near field thermal radiation.
 file: /courses/2-58j-radiative-transfer-spring-2006/106ba5b3d81dab50ebdaaaec225eaff8_lecture23.pdf
+file_size: 239662
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

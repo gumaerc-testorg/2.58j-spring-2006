@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic EM wave modeling of surfaces.
 file: /courses/2-58j-radiative-transfer-spring-2006/a242665a8a872f416fc71098b4364907_lecture6.pdf
+file_size: 547294
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
