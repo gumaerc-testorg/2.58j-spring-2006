@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic Lorentz model.
-file: /courses/2-58j-radiative-transfer-spring-2006/122884e42316f0e498d0ebe54175b4f9_lecture11.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/122884e42316f0e498d0ebe54175b4f9_lecture11.pdf
 file_size: 507322
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic scattering properties of particulates.
-file: /courses/2-58j-radiative-transfer-spring-2006/e198d1d2ad5131474979854a6333867d_student_lect9.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/e198d1d2ad5131474979854a6333867d_student_lect9.pdf
 file_size: 316434
 file_type: application/pdf
 learning_resource_types:

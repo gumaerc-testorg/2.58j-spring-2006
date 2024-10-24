@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the topic equation of radiative transfer in participating
   media.
-file: /courses/2-58j-radiative-transfer-spring-2006/dc2e2c67b83f9fb5ff7375e49df61bf5_student_lect15.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/dc2e2c67b83f9fb5ff7375e49df61bf5_student_lect15.pdf
 file_size: 314088
 file_type: application/pdf
 learning_resource_types:
