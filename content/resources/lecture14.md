@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource reviews the last two lectures.
-file: /courses/2-58j-radiative-transfer-spring-2006/4d5231e518ca2cfb33e933b97a634e34_lecture14.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/4d5231e518ca2cfb33e933b97a634e34_lecture14.pdf
 file_size: 358504
 file_type: application/pdf
 learning_resource_types:

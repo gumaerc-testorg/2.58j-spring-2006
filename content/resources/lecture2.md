@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topics view factor, simple radiative transfer.
-file: /courses/2-58j-radiative-transfer-spring-2006/16b080a7154542da8bbf49b27cd6af45_lecture2.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/16b080a7154542da8bbf49b27cd6af45_lecture2.pdf
 file_size: 798759
 file_type: application/pdf
 learning_resource_types:
