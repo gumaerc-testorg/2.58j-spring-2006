@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 problems from the course text book.
-file: /courses/2-58j-radiative-transfer-spring-2006/69f782098b7cc4d60d0920ee650d039f_ps6.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/69f782098b7cc4d60d0920ee650d039f_ps6.pdf
 file_size: 12221
 file_type: application/pdf
 learning_resource_types:

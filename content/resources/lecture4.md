@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic radiative transfer in enclosures.
-file: /courses/2-58j-radiative-transfer-spring-2006/73c389bc73355e9ff34599d020ea5bc7_lecture4.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/73c389bc73355e9ff34599d020ea5bc7_lecture4.pdf
 file_size: 536902
 file_type: application/pdf
 learning_resource_types:
