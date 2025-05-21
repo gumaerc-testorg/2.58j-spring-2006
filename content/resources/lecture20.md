@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic Monte Carlo simulation.
-file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/8f8791505c28574f9ca3416df2c62b59_lecture20.pdf
+file: /courses/2-58j-radiative-transfer-spring-2006/8f8791505c28574f9ca3416df2c62b59_lecture20.pdf
 file_size: 77756
 file_type: application/pdf
 learning_resource_types:

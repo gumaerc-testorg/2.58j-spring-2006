@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic spherical harmonics method.
-file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/3bf8ce7a342512d138f0b830937c972d_lecture18.pdf
+file: /courses/2-58j-radiative-transfer-spring-2006/3bf8ce7a342512d138f0b830937c972d_lecture18.pdf
 file_size: 103334
 file_type: application/pdf
 learning_resource_types:
