@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to 6 problems from the course text book.
   Problems are from the topics Monte Carlo code, Surface Emissivity, and Fresnel formula.
-file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/25805bbb648908341710ada3e099884d_sol3.pdf
+file: /courses/2-58j-radiative-transfer-spring-2006/25805bbb648908341710ada3e099884d_sol3.pdf
 file_size: 152686
 file_type: application/pdf
 learning_resource_types:
