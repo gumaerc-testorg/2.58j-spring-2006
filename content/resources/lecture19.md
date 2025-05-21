@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic Approximate solutions.
-file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/f8925b7f623c74373a6ebc8debd6785b_lecture19.pdf
+file: /courses/2-58j-radiative-transfer-spring-2006/f8925b7f623c74373a6ebc8debd6785b_lecture19.pdf
 file_size: 317924
 file_type: application/pdf
 learning_resource_types:

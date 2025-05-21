@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic EM wave modeling of thin films.
-file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/432646ee966faf0ab7df3e3733e75608_lecture7.pdf
+file: /courses/2-58j-radiative-transfer-spring-2006/432646ee966faf0ab7df3e3733e75608_lecture7.pdf
 file_size: 107723
 file_type: application/pdf
 learning_resource_types:
