@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic EM wave modeling of particles.
-file: /courses/2-58j-radiative-transfer-spring-2006/36d82da1a608aede9048fb2247f27d79_lecture8.pdf
+file: /ol-ocw-studio-app/courses/2-58j-radiative-transfer-spring-2006/36d82da1a608aede9048fb2247f27d79_lecture8.pdf
 file_size: 360599
 file_type: application/pdf
 learning_resource_types:
